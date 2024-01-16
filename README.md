@@ -29,6 +29,6 @@
 | *Примеры операций над множествами* |
 
 Если изначально задан пустой универсум, то вместо результатов операций будет выводиться сообщение о пустом множестве:
-| ![image](https://github.com/tutibase/Multiset-Gray-code/assets/44751053/e8e58f3f-3265-425e-b805-3b3af9022290) ![image](https://github.com/tutibase/Multiset-Gray-code/assets/44751053/da1bb839-56b3-45b6-b7a7-2d3c95373a4b) | 
+| ![image](https://github.com/tutibase/Multiset-Gray-code/assets/44751053/da1bb839-56b3-45b6-b7a7-2d3c95373a4b) ![image](https://github.com/tutibase/Multiset-Gray-code/assets/44751053/e8e58f3f-3265-425e-b805-3b3af9022290) | 
 |:--:| 
 | *Операции с пустыми множествами* |
